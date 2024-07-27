@@ -69,7 +69,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(home.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url(assests/home.jpg);
     background-attachment: fixed;
     padding-top: 100px 20px;
     margin: 0px auto;
