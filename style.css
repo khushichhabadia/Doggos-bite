@@ -198,6 +198,10 @@ section
 {
     visibility: visible;
 }
+
+#shop-now-btn {
+    border-radius: 10px;
+}
 .sall
 {
     text-decoration: none;
