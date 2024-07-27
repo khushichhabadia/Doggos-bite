@@ -495,6 +495,14 @@ footer .links .navigation li a:hover {
     padding: 6px 45px;
     background: transparent;
     border-radius: 13px;
+    transition-property: transform;
+    transition-duration: 0.7s;
+    transition-timing-function: ease-in;
+    transform: scale(0.95);
+}
+
+.form input:hover {
+    transform: scale(1.1);
 }
 
 .form button {
@@ -505,6 +513,14 @@ footer .links .navigation li a:hover {
     border: none;
     cursor: pointer;
     letter-spacing: 2px;
+    transition-property: transform;
+    transition-duration: 0.7s;
+    transition-timing-function: ease-in;
+    transform: scale(0.9);
+}
+
+.form button:hover {
+    transform: scale(1.1);
 }
 
 .strip {
