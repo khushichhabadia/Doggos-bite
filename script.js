@@ -19,10 +19,10 @@
             })
         })
    ScrollReveal({ reset: true });
-        ScrollReveal().reveal('.banner', { easing:"ease-in", delay: 100});
-        ScrollReveal().reveal('.shop', { easing: "ease-in", delay: 100});
-        ScrollReveal().reveal('.about', { easing: "ease-in", delay: 100 });
-        ScrollReveal().reveal('.review', { easing: "ease-in", delay: 100 });
-        ScrollReveal().reveal('.contact', { easing: "ease-in", delay: 100 });
-        ScrollReveal().reveal('.form', { easing: "ease-in", delay: 100 });
-        ScrollReveal().reveal('.strip', { easing: "ease-in", delay: 100 });
+        ScrollReveal().reveal('.banner', { easing:"ease-in", delay: 120});
+        ScrollReveal().reveal('.shop', { easing: "ease-in", delay: 120});
+        ScrollReveal().reveal('.about', { easing: "ease-in", delay: 120 });
+        ScrollReveal().reveal('.review', { easing: "ease-in", delay: 120 });
+        ScrollReveal().reveal('.contact', { easing: "ease-in", delay: 120 });
+        ScrollReveal().reveal('.form', { easing: "ease-in", delay: 120 });
+        ScrollReveal().reveal('.strip', { easing: "ease-in", delay: 120 });
