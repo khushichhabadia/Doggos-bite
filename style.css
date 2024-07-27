@@ -58,7 +58,7 @@ body
     min-height: 100vh;
     position: relative;
     background: rgb(255,250,245);
-    background: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(home.jpg);
+    background: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(assests/home.jpg);
     background-size: cover;
     background-attachment: fixed;
     padding-top: 100px;
