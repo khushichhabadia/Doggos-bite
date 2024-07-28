@@ -248,14 +248,14 @@ section {
 }
 
 .imgtext {
-    display: flex;
-    justify-content: space-between;
+    /* display: flex;
+    justify-content: space-between; */
     position: relative;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
     overflow: hidden;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 
 .imgtext img {
